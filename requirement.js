@@ -32,3 +32,18 @@
 //TO get all the publications
 //TO get a specific publication = task
 // TO get a  list of publications based on books. = task
+
+
+//POST REQUEST 
+//1.ADD NEW BOOK
+//2.ADD NEW AUTHOR
+//3.ADD NEW PUBLICATIONS.
+
+/*     PUT     */
+//1.UPADATE BOOKS  - done
+
+
+/****** DELETE ******/
+//1. DELETE A BOOK - TASK
+//2. DELETE AUTHOR FROM BOOK - TASK
+//3, DELETE AUTHOR FROM BOOK AND RELATED FROM AUTHOR. 
